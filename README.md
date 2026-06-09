@@ -41,6 +41,7 @@ Coming Soon
 
 ## Contact
 
-LinkedIn
-GitHub
-Email
+Website   : https://rizkvn.id/
+GitHub    : https://github.com/Rizkvn
+LinkedIn  : https://www.linkedin.com/in/rizkyhutomo/
+
