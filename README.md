@@ -1,22 +1,46 @@
-## Hi there 👋
+# Rizky Hutomo Subagyo
 
-<!--
-**Rizkvn/Rizkvn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+IT Network & Infrastructure Engineer
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 10 tahun pengalaman NOC Engineer
+- VSAT Provider
+- Core Banking Infrastructure
+- Fokus Network & Infrastructure
 
-About Me
-Current Role
-Core Skills
-Projects
-Roadmap
+## Current Role
+
+- IT Network & Infrastructure
+- Core Banking System
+
+## Core Skills
+
+- Cisco
+- Mikrotik
+- VMware
+- Proxmox
+- Linux
+- Monitoring
+- Firewall
+
+## Certifications
+
+- CISCO ICND (2014)
+- MTCNA (2018)
+- Laravel (2022)
+- AWS System Admin (2022)
+
+## Projects
+
+### Infrastructure Capacity Planner
+On Progress
+
+### Network Asset Management
+Coming Soon
+
+## Contact
+
+LinkedIn
+GitHub
+Email
