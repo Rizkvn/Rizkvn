@@ -33,15 +33,13 @@ IT Network & Infrastructure Engineer
 
 ## Projects
 
-### Infrastructure Capacity Planner
-On Progress
-
-### Network Asset Management
-Coming Soon
+### Current Project
+- Infrastructure Capacity Planner
+- Rizkvn Portofolio Website
 
 ## Contact
 
-Website   : https://rizkvn.id/
-GitHub    : https://github.com/Rizkvn
-LinkedIn  : https://www.linkedin.com/in/rizkyhutomo/
+- Website   : https://rizkvn.id/
+- GitHub    : https://github.com/Rizkvn
+- LinkedIn  : https://www.linkedin.com/in/rizkyhutomo/
 
